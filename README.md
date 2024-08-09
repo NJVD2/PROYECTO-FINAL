@@ -12,7 +12,7 @@ Este es el proyecto final del curso de Desarrollo de Software 2. El proyecto est
 
 ## Tecnologías Utilizadas
 
-- [Listar tecnologías utilizadas, por ejemplo:]
+- Lista de tecnologías utilizadas:
   - Angular
   - .NET
   - SQL Server
