@@ -1,0 +1,85 @@
+/*Estilos Header*/
+
+.welcome-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+  text-align: center;
+}
+
+.welcome-text {
+  font-size: 3vh;
+  color: white; /* Texto blanco */
+  font-family: 'Bookman Old Style', cursive;
+  margin: 0;
+}
+
+.navbar {
+  padding-top: 20px; /* Aumenta el espacio superior del nav */
+  padding-bottom: 20px; /* Aumenta el espacio inferior del nav */
+  padding-left: 30px;
+}
+
+.navbar-custom {
+  background-color: blueviolet; /* Color de fondo deseado */
+}
+
+.navbar-custom .navbar-brand,
+.navbar-custom .navbar-nav .nav-link {
+  color: white; /* Color del texto deseado */
+}
+
+.navbar-custom .navbar-brand {
+  font-weight: bold; /* Chuck en negrita */
+  font-size: 2em; /* Tamaño del texto */
+  margin-right: 20px; /* Espacio a la derecha */
+}
+
+.navbar-custom .navbar-nav .nav-link {
+  color: white; /* Letras blancas */
+  margin-right: 25px; /* Más separación entre opciones del nav */
+}
+
+.navbar-custom .navbar-nav .nav-link:hover {
+  text-decoration: underline; /* Subrayado al pasar el mouse */
+  text-decoration-color: white; /* Color del subrayado */
+}
+
+/*Estilos tabla*/
+.containerTabla {
+  display: flex;
+  justify-content: center;
+}
+
+.table {
+  width: 100%; /* Asegura que la tabla ocupe todo el ancho del contenedor */
+}
+
+.table th, .table td {
+  padding: 15px; /* Aumenta el padding en las celdas */
+  text-align: left; /* Alinea el texto a la izquierda */
+}
+
+.table img {
+  max-width: 80px; /* Aumenta el tamaño máximo de la imagen */
+  height: auto; /* Mantiene la proporción de la imagen */
+}
+
+/*Estilos Formulario*/
+.card {
+  width: 100%;
+}
+
+.card-header {
+  background-color:blueviolet;
+  color: white;
+}
+
+.form-group {
+  margin-bottom: 15px;
+}
+
+button {
+  margin-right: 10px;
+}
