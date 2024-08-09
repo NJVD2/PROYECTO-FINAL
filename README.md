@@ -1,8 +1,22 @@
-# PROYECTO-FINAL
-PROYECTO  FINAL DE DESARROLLO DEL  CURSO  DE DESARROLLO DE SOFTWARE 2
-DESARROLLADOR FULLSTACK.\n
-*SEBASTIAN ISRAEL MACEDO GHEILER
-DESARROLLADOR JUNIOR
-*WILLIAMS CONDORI FLORES
-DESARROLLADOR MINI JUNIOR
-*NAJOR JOSUE VALDEIGLEIAS DUEÑAS
+# Proyecto Final de Desarrollo del Curso de Desarrollo de Software 2
+
+## Descripción
+
+Este es el proyecto final del curso de Desarrollo de Software 2. El proyecto está diseñado para demostrar habilidades en desarrollo fullstack y mini junior. A continuación se describen los detalles y la estructura del proyecto.
+
+## Autores
+
+- **Sebastián Israel Macedo Gheiler** - Desarrollador Fullstack
+- **Williams Condori Flores** - Desarrollador Junior
+- **Najor Josué Valdeigleias Dueñas** - Desarrollador Mini Junior
+
+## Tecnologías Utilizadas
+
+- [Listar tecnologías utilizadas, por ejemplo:]
+  - Angular
+  - .NET
+  - SQL Server
+  - Git
+  - GitHub
+
+
